@@ -1,0 +1,19 @@
+Heya.
+
+So uhh, what exactly is this?
+
+
+As the repo's title implies, this is a list. The very first of many (well, second if you count README.md).
+
+Enough fluff, this is probably what you're here for.
+
+Project Ideas:
+- Forking, because I have no original ideas
+- Starting some apps for *nix/terminals (will have a list of their own)
+- More lists
+- Starting my own kernel development because I'm an operating system nut
+- Maybe a small game or two
+- Documentation for hardware projects
+- an ABOUTME.md? haha\
+
+I haven't used github for very long, but this is where I'm going to close my document. See ya!
